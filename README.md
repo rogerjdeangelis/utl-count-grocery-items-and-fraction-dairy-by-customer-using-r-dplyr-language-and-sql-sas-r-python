@@ -10,7 +10,7 @@ Count grocery items and fraction dairy by customer using r dplyr language and sq
           2 sas sql
           3 r sql
           4 python sql
-            Required '1.0' mutiplier 1.0*sum(product='dairy'). Logical type issue? R handeled it?
+            Required '1.0' mutiplier 1.0*sum(product='dairy'). Logical type issue? R handled it?
 
     github
     https://tinyurl.com/4ha67e8z
@@ -63,7 +63,7 @@ Count grocery items and fraction dairy by customer using r dplyr language and sq
     /*      Bob      meat                |                                               |                                    */
     /*      Alice    dairy               |-----------------------------------------------|                                    */
     /*                                   |                                               |                                    */
-    /*                                   | R DPLYR LANGUAGE (|>, .by, == )               |                                    */
+    /*                                   | R DPLYR LANGUAGE (|>, .by, ==, summarize)     |                                    */
     /*                                   |                                               |                                    */
     /*                                   | want <- have |>                               |                                    */
     /*                                   |   summarise(                                  |                                    */
