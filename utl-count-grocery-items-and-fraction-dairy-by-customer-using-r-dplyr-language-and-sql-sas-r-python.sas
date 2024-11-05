@@ -61,7 +61,7 @@ https://stackoverflow.com/questions/79144949/how-can-i-use-dplyr-summarize-to-cr
 /*      Bob      meat                |                                               |                                    */
 /*      Alice    dairy               |-----------------------------------------------|                                    */
 /*                                   |                                               |                                    */
-/*                                   | R DPLYR LANGUAGE (|>, .by, == )               |                                    */
+/*                                   | R DPLYR LANGUAGE (|>, .by, ==,summarize )     |                                    */
 /*                                   |                                               |                                    */
 /*                                   | want <- have |>                               |                                    */
 /*                                   |   summarise(                                  |                                    */
